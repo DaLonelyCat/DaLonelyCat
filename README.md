@@ -8,9 +8,9 @@ I'm a **Computer Science Student** passionate about **Space, Science, & Technolo
 
 ---
 
-## 🔥 Fun Facts & Hobbies
+## 🔥 Fun Facts
 
-* 🔭 I’m currently working on a Gym Application and Tourism App.
+* 🔭 I’m currently working on a Gym and Tourism App.
 * 🌱 I’m currently learning **C#, Flutter, Javascript, Java**.
 * 📫 How to reach me: [@DaLonelyCat on all platform]
 ---
