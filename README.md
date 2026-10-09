@@ -10,14 +10,14 @@
 
   <!-- Badges / Socials -->
   <p align="center">
-    <a href="https://dalonelycat.site"><img src="https://img.shields.io/badge/Portfolio-dalonelycat.site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://portofolio.dalonelycat.site"><img src="https://img.shields.io/badge/Portfolio-dalonelycat.site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/dalonelycat/"><img src="https://img.shields.io/badge/LinkedIn-DaLonelyCat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://twitter.com/dalonelycat"><img src="https://img.shields.io/badge/Twitter-@DaLonelyCat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="mailto:christian.emanuel.08@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <!-- Dynamic Typing Header / Subtitle -->
-  <a href="https://dalonelycat.site">
+  <a href="https://portofolio.dalonelycat.site">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;Full-Stack+Web+%26+Mobile+App+Builder;Exploring+AI%2C+Computer+Vision+%26+Space+Tech;Founder+%26+Software+Architect" alt="Typing SVG" />
   </a>
 
