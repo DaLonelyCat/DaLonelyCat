@@ -17,7 +17,7 @@
   </p>
 
   <!-- Dynamic Typing Header / Subtitle -->
-  <a href="https://dalonelycat.site">
+  <a href="https://portofolio.dalonelycat.site">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;Full-Stack+Web+%26+Mobile+App+Builder;Exploring+AI%2C+Computer+Vision+%26+Space+Tech;Founder+%26+Software+Architect" alt="Typing SVG" />
   </a>
 
